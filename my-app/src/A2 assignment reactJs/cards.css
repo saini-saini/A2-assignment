@@ -1,0 +1,48 @@
+
+.Cardlogo{
+border-radius: 50%;
+height: 20px;
+margin-top: 1px;
+}
+.card-info{
+    display: flex;
+    margin-top: -12px;
+}
+.fa-heart{
+    margin-left: 35px;
+}
+.value{
+    font-size: 10px;
+    margin-left: 4px;
+}
+.card-text{
+    margin-left: 9px;
+}
+.stars{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 90px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.fa-eye:before { 
+    margin-left: 10px;
+}
+.descText{
+    font-size: 10px;
+    margin-top: -7px;
+    margin-bottom: 5px;
+}
+.card{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.icon{
+    width: 25px;
+    height: 25px;
+}
+
+.MuiSvgIcon-root{
+    margin-left: 40px;
+}
